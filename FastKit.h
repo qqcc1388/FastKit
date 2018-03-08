@@ -30,5 +30,6 @@
 #import "UIDevice+FastKit.h"
 #import "UIControl+FastKit.h"
 #import "UIAlertView+Block.h"
+#import "UIApplication+FastKit.h"
 
 #endif /* FastKit_h */
